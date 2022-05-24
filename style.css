@@ -21,7 +21,9 @@ body {
 }
 
 @media (max-width:768px) {
-.first-page-element { text-align: center;
+
+.first-page-element { 
+    text-align: center;
 }
 
 }
